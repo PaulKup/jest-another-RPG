@@ -1,4 +1,4 @@
-const { expect, jest } = require('@jest/globals');
+
 const Potion = require('../lib/Potion');
 
 jest.mock('../lib/Potion.js');
